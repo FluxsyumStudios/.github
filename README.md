@@ -1,6 +1,6 @@
-# Fluxsyum Stúdios
+# Fluxsyum Stúdios 
 
-🎮 **Bem-vindo à Fluxsyum Stúdios!**
+☪ **Bem-vindo à Fluxsyum Stúdios!**
 
 Somos um estúdio focado na criação de **SMPs** (Survival Multiplayer Projects) e **séries originais** no universo do Minecraft. Buscamos sempre entregar experiências imersivas, divertidas e acessíveis para todos os públicos.
 
